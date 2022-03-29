@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/homework4-Sharonfish/static/css/main.d7c36836.css",
+    "main.js": "/homework4-Sharonfish/static/js/main.21e60bed.js",
+    "index.html": "/homework4-Sharonfish/index.html",
+    "main.d7c36836.css.map": "/homework4-Sharonfish/static/css/main.d7c36836.css.map",
+    "main.21e60bed.js.map": "/homework4-Sharonfish/static/js/main.21e60bed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7c36836.css",
+    "static/js/main.21e60bed.js"
+  ]
+}
